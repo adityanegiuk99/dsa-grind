@@ -14,8 +14,6 @@ I solve **10 problems every day**, emphasizing:
 ## 🔥 Daily Commitment
 - ✅ **10 problems per day**
 - ✅ Clean, readable C++ solutions
-- ✅ Plagiarism-safe explanations in my own words
-- ✅ Regular refactoring & improvements
 
 ---
 
